@@ -1,0 +1,17 @@
+.answer{
+    width: 85%;
+    height: auto;
+    padding: 20px;
+    text-align: center;
+    margin-left: 100px;
+    background-color: blue;
+    margin-top: 150px;
+}
+
+.show{
+    background-color: red;
+}
+
+.button{
+    background-color: aqua;
+}
